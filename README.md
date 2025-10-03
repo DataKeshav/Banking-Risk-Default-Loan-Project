@@ -1,9 +1,9 @@
-# Live Dashboard Link
---> https://app.powerbi.com/view?r=eyJrIjoiZWZjMjU5OGYtN2M3NC00NjZhLTliMDktNjg4N2M5MWFhNTIxIiwidCI6IjAwN2Y5YTI5LTM2NjgtNDAzMS1iZTA0LTdmYmM4MTU3ZWMwYyJ9
-
 # Banking Default and Loan Risk Analysis Dashboard
 
 A comprehensive Power BI dashboard that automates loan risk assessment and reduces manual underwriting time by 75%, while preventing potential losses from high-risk borrowers through data-driven insights.
+
+# Live Dashboard Link
+--> https://app.powerbi.com/view?r=eyJrIjoiZWZjMjU5OGYtN2M3NC00NjZhLTliMDktNjg4N2M5MWFhNTIxIiwidCI6IjAwN2Y5YTI5LTM2NjgtNDAzMS1iZTA0LTdmYmM4MTU3ZWMwYyJ9
 
 ## 📊 Project Overview
 
